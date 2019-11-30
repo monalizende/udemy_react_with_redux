@@ -2,72 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f660c27e-d068-4e14-a458-588ed0717b75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../component/src/ApprovalCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../component/src/CommentDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hooks-seasons/src/useLocation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hooks-simple/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hooks-simple/src/components/ResourceList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hooks-simple/src/components/UserList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hooks-simple/src/components/useResources.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hooks-simple/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsx/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pics/src/api/unsplash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pics/src/component/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pics/src/component/ImageCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pics/src/component/ImageList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pics/src/component/ImageList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pics/src/component/SeachBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pics/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seasons/src/SeasonDisplay.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seasons/src/SeasonDisplay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seasons/src/Spinner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../songs/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../songs/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../songs/src/components/SongDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../songs/src/components/SongList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../songs/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/api/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/public/modal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/actions/types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/apis/streams.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/components/GoogleAuth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/components/Modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/components/streams/StreamCreate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/components/streams/StreamDelete.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/components/streams/StreamEdit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/components/streams/StreamForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/components/streams/StreamList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/components/streams/StreamShow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/history.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/reducers/authReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/client/src/reducers/streamsReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../streams/rtmpserver/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../translate/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../translate/src/components/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../translate/src/components/Field.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../translate/src/components/LanguageSelector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../translate/src/components/UserCreate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../translate/src/contexts/ColorContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../translate/src/contexts/LanguageContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../translate/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/.idea/videos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/apis/youtube.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/components/SearchBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/components/VideoDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/components/VideoItem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/components/VideoItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/components/VideoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../videos/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +30,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/PostList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="270">
               <caret line="18" column="43" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="43" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
@@ -190,9 +125,11 @@
       <find>console.log</find>
       <find>console.</find>
       <find>console.lo</find>
+      <find>key</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -325,16 +262,23 @@
       <workItem from="1567602178062" duration="5435000" />
       <workItem from="1570991743929" duration="7419000" />
       <workItem from="1571151804385" duration="1138000" />
-      <workItem from="1575121974519" duration="653000" />
+      <workItem from="1575121974519" duration="1242000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1575125149400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575125149400</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14645000" />
+    <option name="totallyTimeSpent" value="15234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -351,7 +295,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -399,6 +343,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/node_modules/redux/index.d.ts">
@@ -495,7 +443,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/PostList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="270">
           <caret line="18" column="43" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="43" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
