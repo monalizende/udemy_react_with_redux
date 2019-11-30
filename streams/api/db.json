@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Title1",
+      "description": "Test Description",
+      "id": 1
+    },
+    {
+      "title": "Title2",
+      "description": "my stream",
+      "userId": "110320412586064049117",
+      "id": 2
+    },
+    {
+      "title": "title3",
+      "description": "testing history object",
+      "userId": "110320412586064049117",
+      "id": 3
+    }
+  ]
+}
