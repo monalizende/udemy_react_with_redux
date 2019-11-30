@@ -1,4 +1,1 @@
-# udemy_react_with_redux
-# udemy_react_with_redux
-# udemy_react_with_redux
-# udemy_react_with_redux
+# Hands on tutorials from Udemy React with Redux course
